@@ -1,16 +1,16 @@
-# Addition
+# Addition implementaion
 def add(a,b):
 	return a+b
 
-# Subtraction
+# Subtraction implementation
 def subtract(a,b):
 	return a-b 						# on master branch
 
-# Multiplication
+# Multiplication implementation
 def multiply(a,b):
 	return a*b								# on bug1 branch
 
-# Division
+# Division implementation
 def divide(a,b):
 	if b==0;
 		return DIVIDE_BY_0_ERROR
@@ -22,3 +22,4 @@ print("Hello World")
 # Square implementation
 def square(x):
 	return x*x
+
