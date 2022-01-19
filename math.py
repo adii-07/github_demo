@@ -23,3 +23,4 @@ print("Hello World")
 def square(x):
 	return x*x
 
+print(add)
