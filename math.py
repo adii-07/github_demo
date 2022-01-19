@@ -24,3 +24,5 @@ def square(x):
 	return x*x
 
 print(add)
+
+print(subtract)
