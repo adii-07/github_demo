@@ -23,4 +23,6 @@ print("Hello World")
 def square(x):
 	return x*x
 
-print(add)
+print(add(1,2))
+
+print(subtract(6,5))
